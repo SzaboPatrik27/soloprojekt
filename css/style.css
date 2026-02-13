@@ -134,3 +134,10 @@ footer {
         width: 150px;
     }
 }
+
+
+.kituntetett-kozep {
+    width: 100%;
+    text-align: center;
+    margin: 20px auto;
+}
